@@ -1,19 +1,11 @@
+---
+layout: homepage
+---
 
-### Hi there, I'm [Shuangjie Zhang!](https://shuang-jie.github.io/). 
+Welcome! I am currently a Postdoctoral Fellow in the Department of Statistics and Data Sciences at the [University of Texas at Austin](https://stat.utexas.edu/), where I work with [Dr. Yang Ni](https://nystat.github.io/yni/).
 
-Please visit my personal website [Shuangjie Zhang!](https://shuang-jie.github.io/) for latest inormation.
+Previously, I was a postdoctoral research associate at [Texas A&M University](https://stat.tamu.edu/) with [Dr. Yang Ni](https://nystat.github.io/yni/). I received my Ph.D. in Statistical Science from the [University of California Santa Cruz](https://engineering.ucsc.edu/departments/statistics/) in 2024, advised by [Dr. Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home). I earned my M.S. in Statistical Science from [Duke University](https://stat.duke.edu/) and my B.S. in Statistics from the [Southwestern University of Finance and Economics](https://stat.swufe.edu.cn/ENGLISH/About.htm).
 
-I am currently a postdoctoral researcher associate at [Texas A&M University](https://stat.tamu.edu/) advised by [Yang Ni](https://nystat.github.io/yni/). Before this, I received Ph.D. in Statistics at [University of California Santa Cruz](https://www.ucsc.edu/) in 2024, supervised by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home?authuser=0).
+My research develops Bayesian statistical methods for complex, high-dimensional, and dependent data, with an emphasis on probabilistic generative modeling of feature interactions and structure learning in complex systems. I am particularly interested in factor models, graphical models, longitudinal modeling, and density regression, and I develop these methods to address scientific questions in biomedical and biological applications.
 
-**I’m currently working on** 
-- 1. Bayesian high-dimensional modeling
-- 2. Bayesian density regression
-- 3. Bayesian shrinkage prior 
-- 4. Application to biological data
-
-**How to reach me**
-- Email: szhan209 [AT] ucsc.edu
-
-**News & Travel**:
-
-- **August 2023**: Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data. Sunday, Aug 6: 2:00 PM - 3:50 PM, JSM 2023, Toronto Canada. 
+<br>
